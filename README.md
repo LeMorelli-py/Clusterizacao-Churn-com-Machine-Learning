@@ -54,13 +54,7 @@ Agradecimentos:
 
 Agradecimentos a todos que contribuíram para este projeto.
 
-Observações:
 
-Personalize: Adapte este readme para o seu projeto específico, incluindo detalhes sobre os dados utilizados, os modelos escolhidos e os resultados obtidos.
-Detalhes técnicos: Adicione mais detalhes técnicos sobre as etapas do projeto, como a escolha dos hiperparâmetros e a avaliação dos modelos.
-Visualizações: Inclua exemplos de visualizações dos dados e dos resultados.
-Resultados: Apresente os principais resultados do projeto de forma clara e concisa.
-Este é apenas um exemplo de Readme. Você pode adaptá-lo para atender às suas necessidades específicas.
 
 Recursos Adicionais:
 
