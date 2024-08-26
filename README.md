@@ -38,7 +38,7 @@ Apresentação dos resultados da análise e das conclusões.
 Sugestões de ações para cada cluster.
 Como Executar o Projeto:
 
-Clone o repositório: git clone https://[seu_repositorio]
+Clone o repositório: git clone https://[github.com/LeMorelli-py/Clusterizacao-Churn-com-Machine-Learning/]
 Crie um ambiente virtual: python -m venv env
 Ative o ambiente virtual: source env/bin/activate
 Instale as dependências: pip install -r requirements.txt 5. Execute os notebooks: Abra os notebooks Jupyter Notebook na pasta notebooks e execute as células.   
